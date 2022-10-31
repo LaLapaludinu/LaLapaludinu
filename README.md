@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <b>༺═════════[❌]══════════༻</b>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/J7MLKXH/8.jpg" width="350" height="250"/>
+<img src="https://ibb.co/c373Bmy" width="350" height="250"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=RED&center=true&vCenter=true&multiline=false&lines=RAVINU+OFFICIAL+GITHUB"
