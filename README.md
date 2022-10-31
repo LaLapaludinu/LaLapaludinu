@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
  RAVINU DAHAM OFFICIAL GIT HUB,
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+RAVINU+DAHAM+GITHUB.;POWERED+BY+RAVINU+DAHAM;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+RAVINU:+OFFICIEAL;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+Lapalu+Dinujaya+GITHUB.;POWERED+BY+Lapalu+Dinujaya;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Dinujaya:+OFFICIEAL;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
