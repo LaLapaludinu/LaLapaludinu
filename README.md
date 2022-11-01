@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D3F720&multiline=true&width=435&lines=Helow+everything+%F0%9F%A5%80+Welcome+My++;Offlcal+Git+hub+Account+%E2%9C%8C%EF%B8%8F%F0%9F%96%A4;Blak+Knight+Whatsapp+MD+BOT+%F0%9F%99%88%F0%9F%98%87;Thanks+for+Power+by+Lapalu+Dinujaya" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=44C6F7&background=7AFF2D00&width=435&lines=Welcome+My+offlcal+Github+account+;I+am+Black+knight+MD+Bot+Owner+;Power+by+Dinujaya)](https://git.io/typing-svg)
