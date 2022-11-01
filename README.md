@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Hermit Md Whatsapp Bot
+## Black Knight Md Whatsapp Bot
 Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
 
 ***
