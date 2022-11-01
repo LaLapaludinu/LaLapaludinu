@@ -8,17 +8,13 @@
 LaLapaludinu/LaLapaludinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> 
-<b>༺═════════[❌]══════════༻</b>
-</p>
-<p align="center">
-<img src="https://ibb.co/c373Bmy" width="350" height="250"/>
-</p>
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=RED&center=true&vCenter=true&multiline=false&lines=Dinujaya+OFFICIAL+GITHUB"
- alt="">
- 
-MR DINUJAYA OFFICIAL GIT HUB,
-    
-    
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Helow+හායී😋.;Lapalu+Dinujaya+GITHUB.;POWERED+BY+Lapalu+Dinujaya;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Dinujaya:+OFFICIEAL;💕ඉතිං+කොහොමද🙃)](https://git.io/typing-svg)
+
+## Hermit Md Whatsapp Bot
+Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+
+@@ -25,3 +26,5 @@ Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys
+***
+* Join Group For Help
+<a href="https://chat.whatsapp.com/LOMGBEO2i9vKew562o1LFk"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
